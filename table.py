@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Multiplication Table - GK")
+st.title("Multiplication Table")
 
 number = st.number_input("Enter the number:", value=None, step=1)
 
